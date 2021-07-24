@@ -17,9 +17,8 @@ We have found the following human pathogenic microorganisms and diseases caused 
 
 The main database for searching AMPs that was selected for this project is DRAMP (http://dramp.cpu-bioinfor.org/downloads/). The general AMPs dataset was chosen. As a result, Table 1 which describes AMPs killing the described bacteria was created:
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
-| :---: | :---: | :---: | :---: | :---: |
-| Pathogenic microorganism | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
-| Mechanism | :---: | :---: | :---: | :---: |
+| Mechanism of action for AMP  | :---: | :---: | :---: | :---: |
+| Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
 https://www.sciencedirect.com/science/article/pii/S0300908411004718 *marine snail
 
