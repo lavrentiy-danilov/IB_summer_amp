@@ -19,6 +19,7 @@ The main database for searching AMPs that was selected for this project is DRAMP
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: |
 | Pathogenic microorganism | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
+| Mechanism | :---: | :---: | :---: | :---: |
 
 https://www.sciencedirect.com/science/article/pii/S0300908411004718 *marine snail
 
