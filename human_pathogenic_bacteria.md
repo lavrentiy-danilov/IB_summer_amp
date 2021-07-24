@@ -15,3 +15,6 @@ Information was retrieved from the article of Ole Herman Ambur "Genome dynamics 
 **Finding the appropriate AMPs for the listed pathogenic bacteria**
 
 The main database for searching AMPs that was selected for this project is DRAMP (http://dramp.cpu-bioinfor.org/downloads/). The general AMPs dataset was chosen. As a result, the Table 1 which describes AMPs killing the described bacteria was created:
+| Bacterium | Neisseria meningitidis | Neisseria gonorrhoeae | Haemophilus influenzae | Streptococcus pneumoniae | Helicobacter pylori |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| AMP(s) | :---: | :---: | :---: | :---: | :---: |
