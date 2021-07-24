@@ -7,3 +7,5 @@ I have found the following major human pathogens and reference bacteria:
 3) **Haemophilus influenzae (Gammaproteobacteria)** causes pneumonia, meningitis, bacteremia, otitis media, etc.
 4) **Streptococcus pneumoniae (Bacilli)** causes pneumonia, septicemia, otitis media, peritonitis, pericarditis, meningitis, brain abscess, etc.
 5) **Helicobacter pylori (Epsilonproteobacteria)** causes peptic ulcer and gastric cancer.
+
+Information was retrieved from the article of Ole Herman Ambur "Genome dynamics in major bacterial pathogens" (Table 1 "Characteristics of major human pathogens and reference bacteria included in the study").
