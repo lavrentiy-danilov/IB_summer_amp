@@ -1,11 +1,10 @@
-**Finding top 5 human pathogenic microorganisms**
+**Finding some human pathogenic microorganisms**
 
-Here we have tried to select some human pathogenic microorganisms (up to 5) and conclude which AMPs (Antimicrobial peptides) extracted from marine organisms work against them.
-
-P.S. It is also possible there to look at pathogenic bacteria that are related to bacterial diseases of potato/barley.
+Here we have tried to select some human pathogenic microorganisms (up to 5 related to corals AMPs section + 3 additional related to other marine species for comparison) and conclude which AMPs (Antimicrobial peptides) extracted from marine organisms work against them.
 
 We have found the following human pathogenic microorganisms and diseases caused by them:
 1) **Staphylococcus aureus** causes skin infections, pneumonia, heart valve infections, and bone infections.
+2) **hey**
 2) **hey**
 3) **hey**
 4) **hey**
@@ -13,7 +12,6 @@ We have found the following human pathogenic microorganisms and diseases caused 
 6) **Aspergillus fumigatus** causes chronic lung disease (chronic pulmonary aspergillosis) and life-threatening systemic infection that can involve multiple organs (invasive aspergillosis).
 7) **Vibrio Fluvialis** causes cholera-like bloody diarrhoea.
 8) **Listeria monocytogenes** causes listeriosis that manifests itself as sepsis, meningitis, encephalitis, intrauterine infections and spontaneous abortions in pregnant women.
-
 
 **Finding the appropriate AMPs for the listed pathogenic microorganisms**
 
