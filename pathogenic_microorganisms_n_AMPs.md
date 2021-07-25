@@ -20,22 +20,17 @@ We have found the following human pathogenic microorganisms and diseases caused 
 9) **Vibrio Fluvialis** causes cholera-like bloody diarrhoea.
 10) **Listeria monocytogenes** causes listeriosis that manifests itself as sepsis, meningitis, encephalitis, intrauterine infections and spontaneous abortions in pregnant women.
 
-**Finding the appropriate AMPs for the listed pathogenic microorganisms**
+**Finding the appropriate AMPs for the listed pathogenic microorganisms plus identification of mode of action (MOA) for each AMP**
 
 The main database for searching AMPs that was selected for this project is DRAMP (http://dramp.cpu-bioinfor.org/downloads/). The general AMPs dataset was chosen. As a result, Table 1 which describes AMPs killing the described bacteria was created:
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Theonegramide  [Red Sea sponge Theonella swinhoei] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Mode of action (MOA) | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | :---: | :---: | :---: | :---: | :---: | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
-/
 
-AMPs can be classified in many different ways, which can be based on structure, sequence, or *mechanism of action (MOA)*.
+Speaking about MOA of AMPs, it is important to understand MOA of an AMP to facilitate further development as therapeutic agents.
 
-It is important to understand the MOA of these AMPs to facilitate further development as therapeutic agents. /
-
-Based on molecular targets
-AMPs can be broadly classified into two families: cell surface targeting peptides (e.g. nisins and temporins) and intracellular targeting peptides (e.g. Pro-rich peptides). Cell surface-targeting peptides, including both membrane-targeting and non-membrane targeting peptides, can be further classified based on specific targets such as cell wall/carbohydrates, lipids/membranes, and proteins/receptors. Likewise, intracellular targeting AMPs can be further classified based on the specific target molecules (e.g. proteins, DNA, and RNA). Further details can be found in the Antimicrobal Peptide book below.
 
 Here the links of referenced articles are presented:
 
@@ -50,3 +45,5 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996184/ *3
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4733773/
 
 https://www.sciencedirect.com/science/article/pii/S2214250920302602
+
+https://pubmed.ncbi.nlm.nih.gov/21536670/
