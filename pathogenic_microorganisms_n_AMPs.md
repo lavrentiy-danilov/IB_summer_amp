@@ -13,7 +13,7 @@ We have found the following human pathogenic microorganisms and diseases caused 
 2) **Bacillus megaterium** causes brain abscess.
 3) **Staphylococcus aureus** causes skin infections, pneumonia, heart valve infections, and bone infections.
 4) **Microbacterium maritypicum** causes infective endocarditis.
-5) **/**
+5) **Bacillus subtilis** causes bacteremia, endocarditis, pneumonia, and septicemia.
 6) **Proteus mirabilis** causes symptomatic infections of the urinary tract including cystitis and pyelonephritis and is present in cases of asymptomatic bacteriuria, particularly in the elderly and patients with type 2 diabetes (2, 3).
 7) **HIV-1** causes HIV (human immunodeficiency virus) - virus that attacks the body’s immune system.
 8) **Aspergillus fumigatus/** causes chronic lung disease (chronic pulmonary aspergillosis) and life-threatening systemic infection that can involve multiple organs (invasive aspergillosis).
@@ -24,10 +24,10 @@ We have found the following human pathogenic microorganisms and diseases caused 
 
 The main databases for searching well-known AMPs that were selected for this project are DRAMP (http://dramp.cpu-bioinfor.org/downloads/), Antimicrobial Peptide Database (https://aps.unmc.edu/database/), and CAMPR3 (http://www.camp3.bicnirrh.res.in/index.php). As a result, Table 1 which describes AMPs killing the described microorganisms was created. Moreover, modes of action (MOA) for the listed AMPs were described: it is important to understand AMP's MOA to facilitate further development as therapeutic agents.
 
-| AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Parasin I [	catfish Parasilurus asotus] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
+| AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Parasin I [catfish Parasilurus asotus] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Sequence of AMP | ACADLRGKTFCRLFKSYCDKKGIRGRLMRDKCSYSCGCR | KGRGKQGGKVRAKAKTRSS | - | - | - | MKAFSIAVAVTLVLAFVSVLEGATVPLGGQVEEVEEVKRVEEVEESINTPAAERQDLLAGYWMTAGHSRQKRQSHLALCRWCCNCCRNQKGCGICCKF | RWCVYAYVRVRGVLVRYRRCW |
-| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | - | Prevents the transfer of mucopeptides into the cell wall, resulting in the inhibition of cell wall formation. | Inhibited HIV entry into T cells. | :---: | :---:/ | :---: |
+| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Parasin I localizes to the cell membrane and subsequently permeabilized the outer and cytoplasmic membranes. | Prevents the transfer of mucopeptides into the cell wall, resulting in the inhibition of cell wall formation. | Inhibited HIV entry into T cells. | :---: | :---:/ | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Bacillus subtilis | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
 Here the links of referenced articles are presented:
@@ -53,6 +53,8 @@ https://www.msdmanuals.com/home/infections/bacterial-infections-gram-positive-ba
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4638163/
 
 https://www.scielo.br/j/jvatitd/a/TkXD9hLnM35KhR8BcK6H5TB/?lang=en
+
+https://www.epa.gov/sites/default/files/2015-09/documents/fra009.pdf
 
 If you use PROTEUS2 in your research, please cite:
 
