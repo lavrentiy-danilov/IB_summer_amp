@@ -16,9 +16,8 @@ We have found the following human pathogenic microorganisms and diseases caused 
 5) **Bacillus subtilis** causes bacteremia, endocarditis, pneumonia, and septicemia.
 6) **Escherichia coli** is one of the most frequent causes of many common bacterial infections, including cholecystitis, bacteremia, cholangitis, urinary tract infection (UTI), and traveler's diarrhea, and other clinical infections such as neonatal meningitis and pneumonia.
 7) **Pseudomonas aeruginosa** causes infections in the blood, lungs (pneumonia).
-8) **Aspergillus fumigatus/** causes chronic lung disease (chronic pulmonary aspergillosis) and life-threatening systemic infection that can involve multiple organs (invasive aspergillosis).
-9) **Vibrio Fluvialis** causes cholera-like bloody diarrhoea.
-10) **Listeria monocytogenes** causes listeriosis that manifests itself as sepsis, meningitis, encephalitis, intrauterine infections and spontaneous abortions in pregnant women.
+8) **Vibrio Fluvialis** causes cholera-like bloody diarrhoea.
+9) **Listeria monocytogenes** causes listeriosis that manifests itself as sepsis, meningitis, encephalitis, intrauterine infections and spontaneous abortions in pregnant women.
 
 **Finding the appropriate AMPs for the listed pathogenic microorganisms plus identification of mode of action (MOA) for each AMP**
 
