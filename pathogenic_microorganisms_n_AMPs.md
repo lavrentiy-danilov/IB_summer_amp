@@ -1,3 +1,9 @@
+**Introduction**
+
+/
+AMPs can have a range of activities: from killing bacteria, to immune modulation or preventing biofilm formation, as well as anti-cancer or anti-viral properties.
+/
+
 **Finding some human pathogenic microorganisms**
 
 Here we have tried to select some human pathogenic microorganisms and conclude which AMPs (antimicrobial peptides) extracted from marine organisms work against them.
@@ -19,8 +25,14 @@ We have found the following human pathogenic microorganisms and diseases caused 
 The main database for searching AMPs that was selected for this project is DRAMP (http://dramp.cpu-bioinfor.org/downloads/). The general AMPs dataset was chosen. As a result, Table 1 which describes AMPs killing the described bacteria was created:
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Theonegramide  [Red Sea sponge Theonella swinhoei] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Mechanism of action | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Mode of action (MOA) | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
+
+/
+
+AMPs can be classified in many different ways, which can be based on structure, sequence, or *mechanism of action (MOA)*.
+
+It is important to understand the MOA of these AMPs to facilitate further development as therapeutic agents. /
 
 Here the links of referenced articles are presented:
 
