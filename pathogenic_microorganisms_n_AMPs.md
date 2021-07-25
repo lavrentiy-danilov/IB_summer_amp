@@ -25,6 +25,7 @@ We have found the following human pathogenic microorganisms and diseases caused 
 The main databases for searching AMPs that were selected for this project are DRAMP (http://dramp.cpu-bioinfor.org/downloads/) and Antimicrobial Peptide Database (https://aps.unmc.edu/database/). As a result, Table 1 which describes AMPs killing the described microorganisms was created:
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Theonegramide  [Red Sea sponge Theonella swinhoei] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Sequence of AMP | ACADLRGKTFCRLFKSYCDKKGIRGRLMRDKCSYSCGCR | - | - | - | - | - | - |
 | Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Disrupts fungal cell membrane and inhibiting intracellular targets. | Prevents the transfer of mucopeptides into the cell wall, resulting in the inhibition of cell wall formation. | Inhibited HIV entry into T cells. | :---: | :---: | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
@@ -52,6 +53,8 @@ https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/65808/1/Expression%2C%20
 https://www.msdmanuals.com/home/infections/bacterial-infections-gram-positive-bacteria/staphylococcus-aureus-infections
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4638163/
+
+https://www.scielo.br/j/jvatitd/a/TkXD9hLnM35KhR8BcK6H5TB/?lang=en
 
 If you use PROTEUS2 in your research, please cite:
 
