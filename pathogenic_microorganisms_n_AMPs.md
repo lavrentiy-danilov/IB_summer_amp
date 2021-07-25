@@ -18,15 +18,15 @@ We have found the following human pathogenic microorganisms and diseases caused 
 7) **HIV-1** causes HIV (human immunodeficiency virus) - virus that attacks the body’s immune system.
 8) **Aspergillus fumigatus/** causes chronic lung disease (chronic pulmonary aspergillosis) and life-threatening systemic infection that can involve multiple organs (invasive aspergillosis).
 9) **Vibrio Fluvialis** causes cholera-like bloody diarrhoea.
-10) **/Listeria monocytogenes/** causes listeriosis that manifests itself as sepsis, meningitis, encephalitis, intrauterine infections and spontaneous abortions in pregnant women.
+10) **Listeria monocytogenes** causes listeriosis that manifests itself as sepsis, meningitis, encephalitis, intrauterine infections and spontaneous abortions in pregnant women.
 
 **Finding the appropriate AMPs for the listed pathogenic microorganisms plus identification of mode of action (MOA) for each AMP**
 
 The main databases for searching well-known AMPs that were selected for this project are DRAMP (http://dramp.cpu-bioinfor.org/downloads/), Antimicrobial Peptide Database (https://aps.unmc.edu/database/) and CAMPR3 (http://www.camp3.bicnirrh.res.in/index.php). As a result, Table 1 which describes AMPs killing the described microorganisms was created:
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Theonegramide  [Red Sea sponge Theonella swinhoei] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Sequence of AMP | ACADLRGKTFCRLFKSYCDKKGIRGRLMRDKCSYSCGCR | - | - | - | - | MKAFSIAVAVTLVLAFVSVLEGATVPLGGQVEEVEEVKRVEEVEESINTPAAERQDLLAGYWMTAGHSRQKRQSHLALCRWCCNCCRNQKGCGICCKF | - |
-| /Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Disrupts fungal cell membrane and inhibiting intracellular targets. | Prevents the transfer of mucopeptides into the cell wall, resulting in the inhibition of cell wall formation. | Inhibited HIV entry into T cells. | :---: | :---: | :---:/ |
+| Sequence of AMP | ACADLRGKTFCRLFKSYCDKKGIRGRLMRDKCSYSCGCR | - | - | - | - | MKAFSIAVAVTLVLAFVSVLEGATVPLGGQVEEVEEVKRVEEVEESINTPAAERQDLLAGYWMTAGHSRQKRQSHLALCRWCCNCCRNQKGCGICCKF | RWCVYAYVRVRGVLVRYRRCW |
+| /Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Disrupts fungal cell membrane and inhibiting intracellular targets. | Prevents the transfer of mucopeptides into the cell wall, resulting in the inhibition of cell wall formation. | Inhibited HIV entry into T cells. | :---: | :---:/ | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
 Speaking about MOA of AMPs, it is important to understand MOA of an AMP to facilitate further development as therapeutic agents.
