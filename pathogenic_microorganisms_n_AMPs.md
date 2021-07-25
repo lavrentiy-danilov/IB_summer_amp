@@ -1,8 +1,8 @@
 **Introduction**
 
-/
+Nature provides a variety of peptides that are expressed in most living species. In the project we have focused on marine peptides (antimicrobial peptides (AMPs) extracted from marine species to be exact).
+
 AMPs can have a range of activities: from killing bacteria, to immune modulation or preventing biofilm formation, as well as anti-cancer or anti-viral properties.
-/
 
 **Finding some human pathogenic microorganisms**
 
@@ -25,8 +25,9 @@ We have found the following human pathogenic microorganisms and diseases caused 
 The main databases for searching AMPs that were selected for this project is DRAMP (http://dramp.cpu-bioinfor.org/downloads/) and Antimicrobial Peptide Database (https://aps.unmc.edu/database/). As a result, Table 1 which describes AMPs killing the described microorganisms was created:
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Theonegramide  [Red Sea sponge Theonella swinhoei] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Disrupts fungal cell membrane and inhibiting intracellular targets | :---: | :---: | :---: | :---: | :---: |
+| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Disrupts fungal cell membrane and inhibiting intracellular targets. | :---: | :---: | :---: | :---: | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
+
 
 
 Speaking about MOA of AMPs, it is important to understand MOA of an AMP to facilitate further development as therapeutic agents.
@@ -49,3 +50,7 @@ https://www.sciencedirect.com/science/article/pii/S2214250920302602
 https://pubmed.ncbi.nlm.nih.gov/21536670/
 
 https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/65808/1/Expression%2C%20purification%20and%20characterization.pdf
+
+https://www.msdmanuals.com/home/infections/bacterial-infections-gram-positive-bacteria/staphylococcus-aureus-infections
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4638163/
