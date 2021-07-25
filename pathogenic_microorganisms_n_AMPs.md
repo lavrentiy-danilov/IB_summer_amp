@@ -54,3 +54,7 @@ https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/65808/1/Expression%2C%20
 https://www.msdmanuals.com/home/infections/bacterial-infections-gram-positive-bacteria/staphylococcus-aureus-infections
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4638163/
+
+If you use PROTEUS2 in your research, please cite:
+
+Montgomerie S, Cruz JA, Shrivastava S, Arndt D, Berjanskii M, Wishart DS. PROTEUS2: a web server for comprehensive protein structure prediction and structure-based annotation. Nucleic Acids Res. 2008 Jul 1;36(Web Server issue):W202-9. Epub 2008 May 15.
