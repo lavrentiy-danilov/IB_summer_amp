@@ -8,8 +8,8 @@ We have found the following human pathogenic microorganisms and diseases caused 
 3) **Staphylococcus aureus** causes skin infections, pneumonia, heart valve infections, and bone infections.
 4) **Microbacterium maritypicum** causes infective endocarditis.
 5) **Candida albicans** is the most important fungal opportunistic pathogen. It usually resides as a commensal in the gastrointestinal and genitourinary tracts and in the oral and conjunctival flora . However, it can cause infection when the host becomes immunocompromised.
-6) **/sponges/**
-7)
+6) **Proteus mirabilis** causes symptomatic infections of the urinary tract including cystitis and pyelonephritis and is present in cases of asymptomatic bacteriuria, particularly in the elderly and patients with type 2 diabetes (2, 3).
+7) **HIV-1** causes HIV (human immunodeficiency virus) - virus that attacks the body’s immune system.
 8) **Aspergillus fumigatus** causes chronic lung disease (chronic pulmonary aspergillosis) and life-threatening systemic infection that can involve multiple organs (invasive aspergillosis).
 9) **Vibrio Fluvialis** causes cholera-like bloody diarrhoea.
 10) **Listeria monocytogenes** causes listeriosis that manifests itself as sepsis, meningitis, encephalitis, intrauterine infections and spontaneous abortions in pregnant women.
@@ -17,10 +17,10 @@ We have found the following human pathogenic microorganisms and diseases caused 
 **Finding the appropriate AMPs for the listed pathogenic microorganisms**
 
 The main database for searching AMPs that was selected for this project is DRAMP (http://dramp.cpu-bioinfor.org/downloads/). The general AMPs dataset was chosen. As a result, Table 1 which describes AMPs killing the described bacteria was created:
-| AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Theonegramide  [the Red Sea sponge Theonella swinhoei] | Discodermin A [the marine sponge Discodermia kiiensis] | Koshikamides F [the marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
+| AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Theonegramide  [Red Sea sponge Theonella swinhoei] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Mechanism of action | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | - | - | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
+| Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
 Here the links of referenced articles are presented:
 
