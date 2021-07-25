@@ -34,6 +34,9 @@ AMPs can be classified in many different ways, which can be based on structure, 
 
 It is important to understand the MOA of these AMPs to facilitate further development as therapeutic agents. /
 
+Based on molecular targets
+AMPs can be broadly classified into two families: cell surface targeting peptides (e.g. nisins and temporins) and intracellular targeting peptides (e.g. Pro-rich peptides). Cell surface-targeting peptides, including both membrane-targeting and non-membrane targeting peptides, can be further classified based on specific targets such as cell wall/carbohydrates, lipids/membranes, and proteins/receptors. Likewise, intracellular targeting AMPs can be further classified based on the specific target molecules (e.g. proteins, DNA, and RNA). Further details can be found in the Antimicrobal Peptide book below.
+
 Here the links of referenced articles are presented:
 
 https://www.sciencedirect.com/science/article/pii/S0300908411004718 *marine snail
