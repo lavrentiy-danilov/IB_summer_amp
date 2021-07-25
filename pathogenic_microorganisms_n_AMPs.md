@@ -27,7 +27,7 @@ The main databases for searching well-known AMPs that were selected for this pro
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Parasin I [catfish Parasilurus asotus] | Arasin 1 [small spider crab Hyas araneus] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Sequence of AMP | ACADLRGKTFCRLFKSYCDKKGIRGRLMRDKCSYSCGCR | KGRGKQGGKVRAKAKTRSS | SRWPSPGRPRPFPGRPKPIFRPRPCNCYAPPCPCDRW | - | - | MKAFSIAVAVTLVLAFVSVLEGATVPLGGQVEEVEEVKRVEEVEESINTPAAERQDLLAGYWMTAGHSRQKRQSHLALCRWCCNCCRNQKGCGICCKF | RWCVYAYVRVRGVLVRYRRCW |
-| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Parasin I localizes to the cell membrane and subsequently permeabilized the outer and cytoplasmic membranes. | - | Inhibited HIV entry into T cells. | :---: | :---:/ | :---: |
+| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Parasin I localizes to the cell membrane and subsequently permeabilized the outer and cytoplasmic membranes. | Arasin 1 is characterized by dual mode of action involving membrane disruption at peptide concentrations above the minimal inhibitory concentration (MIC), and an alternative mechanism of action, possibly involving intracellular targets, at MIC. | Inhibited HIV entry into T cells. | :---: | :---:/ | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Bacillus subtilis | Escherichia coli | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
 Here the links of referenced articles are presented:
@@ -55,6 +55,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4638163/
 https://www.scielo.br/j/jvatitd/a/TkXD9hLnM35KhR8BcK6H5TB/?lang=en
 
 https://www.epa.gov/sites/default/files/2015-09/documents/fra009.pdf
+
+https://pubmed.ncbi.nlm.nih.gov/23326415/
 
 If you use PROTEUS2 in your research, please cite:
 
