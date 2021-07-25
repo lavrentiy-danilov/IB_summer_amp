@@ -28,8 +28,6 @@ The main databases for searching AMPs that were selected for this project is DRA
 | Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Disrupts fungal cell membrane and inhibiting intracellular targets. | :---: | :---: | :---: | :---: | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
-
-
 Speaking about MOA of AMPs, it is important to understand MOA of an AMP to facilitate further development as therapeutic agents.
 
 
