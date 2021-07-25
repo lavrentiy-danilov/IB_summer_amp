@@ -25,8 +25,7 @@ We have found the following human pathogenic microorganisms and diseases caused 
 The main databases for searching AMPs that were selected for this project are DRAMP (http://dramp.cpu-bioinfor.org/downloads/) and Antimicrobial Peptide Database (https://aps.unmc.edu/database/). As a result, Table 1 which describes AMPs killing the described microorganisms was created:
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Theonegramide  [Red Sea sponge Theonella swinhoei] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Sequence of AMP | ACADLRGKTFCRLFKSYCDKKGIRGRLMRDKCSYSCGCR | - | - | - | - | MKAFSIAVAVTLVLAFVSVLEGATVPLGGQVEEVEEVKRVEEVEESINTPAAERQDLLAG
-YWMTAGHSRQKRQSHLALCRWCCNCCRNQKGCGICCKF | - |
+| Sequence of AMP | ACADLRGKTFCRLFKSYCDKKGIRGRLMRDKCSYSCGCR | - | - | - | - | MKAFSIAVAVTLVLAFVSVLEGATVPLGGQVEEVEEVKRVEEVEESINTPAAERQDLLAGYWMTAGHSRQKRQSHLALCRWCCNCCRNQKGCGICCKF | - |
 | Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Disrupts fungal cell membrane and inhibiting intracellular targets. | Prevents the transfer of mucopeptides into the cell wall, resulting in the inhibition of cell wall formation. | Inhibited HIV entry into T cells. | :---: | :---: | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
