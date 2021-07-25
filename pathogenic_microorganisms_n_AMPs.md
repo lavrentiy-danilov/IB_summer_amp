@@ -1,6 +1,6 @@
 **Introduction**
 
-Nature provides a variety of peptides that are expressed in most living species. In the project we have focused on marine peptides (antimicrobial peptides (AMPs) extracted from marine species to be exact).
+Nature provides a variety of peptides that are expressed in most living species. In the project we have focused on marine peptides (antimicrobial peptides (AMPs) extracted from marine species to be exact.
 
 AMPs can have a range of activities: from killing bacteria, to immune modulation or preventing biofilm formation, as well as anti-cancer or anti-viral properties.
 
@@ -22,10 +22,10 @@ We have found the following human pathogenic microorganisms and diseases caused 
 
 **Finding the appropriate AMPs for the listed pathogenic microorganisms plus identification of mode of action (MOA) for each AMP**
 
-The main databases for searching AMPs that were selected for this project is DRAMP (http://dramp.cpu-bioinfor.org/downloads/) and Antimicrobial Peptide Database (https://aps.unmc.edu/database/). As a result, Table 1 which describes AMPs killing the described microorganisms was created:
+The main databases for searching AMPs that were selected for this project are DRAMP (http://dramp.cpu-bioinfor.org/downloads/) and Antimicrobial Peptide Database (https://aps.unmc.edu/database/). As a result, Table 1 which describes AMPs killing the described microorganisms was created:
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Theonegramide  [Red Sea sponge Theonella swinhoei] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Disrupts fungal cell membrane and inhibiting intracellular targets. | :---: | :---: | :---: | :---: | :---: |
+| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Disrupts fungal cell membrane and inhibiting intracellular targets. | Prevents the transfer of mucopeptides into the cell wall, resulting in the inhibition of cell wall formation. | :---: | :---: | :---: | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
 Speaking about MOA of AMPs, it is important to understand MOA of an AMP to facilitate further development as therapeutic agents.
