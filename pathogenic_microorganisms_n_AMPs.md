@@ -22,10 +22,10 @@ We have found the following human pathogenic microorganisms and diseases caused 
 
 **Finding the appropriate AMPs for the listed pathogenic microorganisms plus identification of mode of action (MOA) for each AMP**
 
-The main database for searching AMPs that was selected for this project is DRAMP (http://dramp.cpu-bioinfor.org/downloads/). The general AMPs dataset was chosen. As a result, Table 1 which describes AMPs killing the described bacteria was created:
+The main databases for searching AMPs that were selected for this project is DRAMP (http://dramp.cpu-bioinfor.org/downloads/) and Antimicrobial Peptide Database (https://aps.unmc.edu/database/). As a result, Table 1 which describes AMPs killing the described microorganisms was created:
 | AMP | Damicornin [scleractinian coral Pocillopora damicornis] | Theonegramide  [Red Sea sponge Theonella swinhoei] | Discodermin A [marine sponge Discodermia kiiensis] | Koshikamides F [marine sponge Theonella sp.] | Antifungal peptide [marine snail Cenchritis muricatus] | Hepcidin [fish like atlantic cod Gadus morhua, antarctic toothfish Dissostichus mawsoni,  atlantic salmon Salmo salar, etc.] | Arenicin-1 (Ar-1) [marine polychaeta] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | :---: | :---: | :---: | :---: | :---: | :---: |
+| Mode of action (MOA) | Effects on both the outer and cytoplasmic membrane of bacterium. Damicornin exerts its antimicrobial effects via perturbation of the cell membrane of bacterium. | Disrupts fungal cell membrane and inhibiting intracellular targets | :---: | :---: | :---: | :---: | :---: |
 | Pathogenic microorganism(s) | Micrococcus luteus; Bacillus megaterium; Staphylococcus aureus; Microbacterium maritypicum | Candida albicans | Proteus mirabilis | HIV-1 | Aspergillus fumigatus | Vibrio Fluvialis | Listeria monocytogenes |
 
 
@@ -47,3 +47,5 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4733773/
 https://www.sciencedirect.com/science/article/pii/S2214250920302602
 
 https://pubmed.ncbi.nlm.nih.gov/21536670/
+
+https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/65808/1/Expression%2C%20purification%20and%20characterization.pdf
